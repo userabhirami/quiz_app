@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> {
                             ? checkvalue == DataBase.myData[value]['answer']
                                 ? Colors.green
                                 : Colors.red
-                            : Colors.amber,
+                            : Colors.grey,
                         child: Center(
                             child:
                                 Text(DataBase.myData[value]['options'][index])),
