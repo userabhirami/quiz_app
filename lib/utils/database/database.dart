@@ -19,11 +19,6 @@ class DataBase {
       "answer": 1
     },
     {
-      "question": "How many types of widgets are there in flutter?",
-      "options": ["2", "1", "5", "4"],
-      "answer": 0,
-    },
-    {
       "question":
           "What is the Flutter widget that represents the basic building block of the user interface?",
       "options": ["Blocks", "Widgets", "Elements", "Components"],
@@ -39,6 +34,11 @@ class DataBase {
         "To write documentation"
       ],
       "answer": 1
+    },
+    {
+      "question": "How many types of widgets are there in flutter?",
+      "options": ["2", "1", "5", "4"],
+      "answer": 0,
     },
     {
       "question":
